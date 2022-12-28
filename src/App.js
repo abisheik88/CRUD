@@ -124,7 +124,7 @@ function Dashboard() {
   return (
     <div className="dashboard">
       <h1>Welcome to CRUD APP on Users List.</h1>
-      <p>This App allows us to create,Read,Update and Delete the userlist.</p>
+      <p>This App allows us to Create, Read, Update and Delete the userlist.</p>
     </div>
   );
 }
